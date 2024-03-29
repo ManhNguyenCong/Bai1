@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ActivityLearning</string>
+    <string name="txtFirstActivity">This is first activity</string>
+    <string name="txtEnterYourName">Enter your name:</string>
+    <string name="next">Next</string>
+    <string name="txtSecondActivity">This is second activity</string>
+    <string name="back">Back</string>
+</resources>
