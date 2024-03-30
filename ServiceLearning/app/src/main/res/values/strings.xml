@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ServiceLearning</string>
+    <string name="background_service">Background Service</string>
+    <string name="foreground_service">Foreground Service</string>
+    <string name="bound_service">Bound Service</string>
+    <string name="enter_two_numbers">Enter two numbers</string>
+    <string name="first_number">First number</string>
+    <string name="second_number">Second number</string>
+    <string name="sum">Sum</string>
+</resources>
