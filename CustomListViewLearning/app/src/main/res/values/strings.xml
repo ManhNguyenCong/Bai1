@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CustomListViewLearning</string>
+    <string name="txtListOfUsers">Danh sách user</string>
+    <string name="txtAddUser">Thêm user mới</string>
+    <string name="txtFullName">Họ tên:</string>
+    <string name="txtAge">Tuổi:</string>
+    <string name="txtSex">Giới tính:</string>
+    <string name="txtMale">Nam</string>
+    <string name="txtFemale">Nữ</string>
+    <string name="txtAdd">Thêm</string>
+    <string name="txtCancel">Quay lại</string>
+</resources>
