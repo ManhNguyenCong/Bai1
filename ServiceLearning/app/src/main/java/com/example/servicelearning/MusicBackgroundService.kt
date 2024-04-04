@@ -22,6 +22,7 @@ class MusicBackgroundService : Service() {
 
     override fun onDestroy() {
         super.onDestroy()
+        mediaPlayer.stop()
         Log.d(TAG, "onDestroy")
     }
 }
